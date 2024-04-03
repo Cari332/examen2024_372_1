@@ -1,0 +1,284 @@
+    1  git status
+    2  git clone https://github.com/Cari332/PracticasDSW.git
+    3  git pull
+    4  git init
+    5  git status
+    6  git add
+    7  git clone https://github.com/Cari332/PracticasDSW.git.git
+    8  git pull
+    9  git status
+   10  git add .
+   11  git init
+   12  git status
+   13  git add .
+   14  git commit -m "Agregar Practica 3"
+   15  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+   16  git config --global user.name Cari332
+   17  git branch -M main
+   18  git remote add origin https://github.com/Cari332/PracticasDSW.git
+   19  git push -u origin main
+   20  git init
+   21  git status
+   22  git add .
+   23  git commit -m "Subir practica 3"
+   24  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+   25  git config --global user.name Cari332
+   26  git branch -M main
+   27  git remote add origin https://github.com/Cari332/PracticasDSW.git
+   28  git push -u origin main
+   29  git clone https://github.com/Cari332/PracticasDSW.git
+   30  git pull
+   31  git status
+   32  git clone https://github.com/Cari332/PracticasDSW.git
+   33  git pull
+   34  git status
+   35  git add .
+   36  git init
+   37  git status
+   38  git clone https://github.com/Cari332/PracticasDSW.git
+   39  git pull
+   40  git init
+   41  git status
+   42  git add .
+   43  git commit -m "Subir practica3"
+   44  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+   45  git config --glomal name.Cari332
+   46  git init
+   47  git status
+   48  git add .
+   49  git commit -m "Subir practica 3"
+   50  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+   51  git config --global user.name Cari332
+   52  git branch -M main
+   53  git remote add origin https://github.com/Cari332/PracticasDSW.git
+   54  git push -u origin main
+   55  git init
+   56  git status
+   57  git add .
+   58   git commit -m "subir practica3""
+   59  git init
+   60  git status
+   61  git add .
+   62  git commit -m "Subir practica 3"
+   63  git commit -m "Subir practica3"
+   64  git config --global user.emal carina.medrano.cardenas@uabc.edu.mx
+   65  git config --global user.name Cari332
+   66  git branch -M main
+   67  git remote add arigin https://github.com/Cari332/PracticasDSW.git
+   68  git push -u origin main
+   69  git status
+   70  git remote -v
+   71  git push
+   72  git fetch origin main:tmp
+   73  git rebase tmp
+   74  git push
+   75  git init
+   76  git status
+   77  git add .
+   78  git commit -m "Subir practica 3"
+   79  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+   80  git config --global user.name Cari332
+   81  git branch -M main
+   82  git remote add origin https://github.com/Cari332/PracticasDSW.git
+   83  git push -u origin main
+   84  git branch -D tmp
+   85  git push -u origin main
+   86  git init 
+   87  git status
+   88  git add .
+   89  git commit -m "Subir practica4"
+   90  git config  --global user.email carina.medrano.cardenas@uabc.edu.mx
+   91  git config --global user.name Cari332
+   92  git branch -M main
+   93  git remote add origin https://github.com/Cari332/PracticasDSW.git
+   94  git push -u origin main
+   95  git fetch origin main:tmp
+   96  git rebase tmp
+   97  git push origin HEAD:main
+   98  git branch -D tmp
+   99  git push -u origin main
+  100  git init
+  101  git status
+  102  git add .
+  103  git commit -m "Subir practica 10"
+  104  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  105  git config --global user.name Cari332
+  106  git branch -M main
+  107  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  108  git push -u origin main
+  109  git fetch origgin main:tmp
+  110  git rebase tmp
+  111  git push origin HEAD:main
+  112  git branch -D tmp
+  113  git push -u origin main
+  114  git fetch origin main:tmp
+  115  git rebase tmp
+  116  git push origin HEAD:main
+  117  git branch -D tmp
+  118  git push -u origin main
+  119  git init
+  120  git status
+  121  git add .
+  122  git commit -m "Subir practica11"
+  123  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  124  git config --global user.name Cari332
+  125  git branch -M main
+  126  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  127  git push -u origin main
+  128  git init
+  129  git status
+  130  git add .
+  131  git commit -m "Subir practica 12"
+  132  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  133  git config --global user.name Cari332
+  134  git branch -M main
+  135  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  136  git push -u origin main
+  137  git init
+  138  git status
+  139  git add .
+  140  git commit -m "Subir practica 13"
+  141  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  142  git config --global user.name Cari332
+  143  git init
+  144  git status
+  145  git init
+  146  git status
+  147  git init
+  148  git status
+  149  git add .
+  150  git commit -m "subir practica13"
+  151  git config --global user.eamil carina.medrano.cardenas@uabc.edu.mx
+  152  git config --global user.name Cari332
+  153  git branch -M main
+  154  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  155  git push -u origin main
+  156  cd Desktop
+  157  mkdir pyton
+  158  cd python
+  159  ls
+  160  touch operaciones_matematicas.py; code .
+  161  pwd
+  162  mkdir ~
+  163  mkdir 
+  164  cd desktop
+  165  git init
+  166  git status
+  167  git add .
+  168  git commit -m "Subir practica 14"
+  169  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  170  git config --global user.name Cari332
+  171  git branch -M main
+  172  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  173  git push -u origin main
+  174  git init
+  175  git status
+  176  git add .
+  177  git commit -m "Subir practica15"
+  178  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  179  git config --global user.name Cari332
+  180  git branch -M main 
+  181  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  182  git push -u origin main
+  183  git push -u origin main
+  184  git init
+  185  git status
+  186  git add .
+  187  git commit -m "Subir practica 16"
+  188  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  189  git config --global user.name Cari332
+  190  git branch -M main
+  191  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  192  git push -u origin main
+  193  git init
+  194  git status
+  195  git add .
+  196  git commit -m "Subir practica 17"
+  197  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  198  git config --global user.name Cari332
+  199  git branch M- main
+  200  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  201  git push -u origin main
+  202  git init
+  203  git status
+  204  git add .
+  205  git commit -m "Subir practica 18"
+  206  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  207  git config --global user.name Cari332
+  208  git branch -M main
+  209  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  210  git push -u origin main
+  211  git init
+  212  git status
+  213  git add .
+  214  git commit -m "Subir Practica19"
+  215  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  216  git config --global user.name Cari332
+  217  git branch -M main
+  218  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  219  git push -u origin main
+  220  git init
+  221  git status
+  222  git add .
+  223  git commit -m "Subir Practica20"
+  224  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  225  git config --global user.name Cari332
+  226  git branch -M main
+  227  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  228  git push -u origin main
+  229  git init
+  230  git status
+  231  git add .
+  232  git commit -m "Subir practica 21"
+  233  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  234  git config --global user.name Cari332
+  235  git branch -M 
+  236  git branch -M main
+  237  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  238  git push -u origin main
+  239  git init
+  240  git status
+  241  git init
+  242  git status
+  243  git add .
+  244  git commit -m "Subir practica 22"
+  245  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  246  git config --global user.name Cari332
+  247  git branch -M main
+  248  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  249  git push -u origin main
+  250  git push -u origin main
+  251  git fetch origin main:tmp
+  252  git rebase tmp
+  253  git push origin HEAD:main
+  254  git branch -D tmp
+  255  git push -u origin main
+  256  git init
+  257  git status
+  258  git add .
+  259  git commit -m "Subir practica22"
+  260  git init
+  261  git status
+  262  git add .
+  263  git commit -m "Subir practica22"
+  264  git config --global user.email carina.medrano.cardenas@uabc.edu.mx
+  265  git config --global user.name Cari332
+  266  git branch -M main
+  267  git remote add origin https://github.com/Cari332/PracticasDSW.git
+  268  git push -u origin main
+  269  git status
+  270  git add .
+  271  git add practica22.1
+  272  git commit -m "Subir practica22"
+  273  git push
+  274  exit
+  275  cd examen372
+  276  .create.sh
+  277  cmd //c tree //F ./
+  278  ./create.sh
+  279  mv examen372.md README.md
+  280  cd ..
+  281  mv examen.md RENAME.md
+  282  mv examen372.md RENAME.md
+  283  mv README.md examen372/
+  284  history > history.txt
